@@ -14,7 +14,7 @@ A static behavioural assessment web page built with **Vite**, **React**, **TypeS
 
 [Watch the Demo Video](./public/Leni-Background-Assessment-Demo.mp4)
 
-> _The video demonstrates the toggling of visibility and selection behavior._
+> _The video demonstrates the toggling of visibility and selection behaviour._
 
 ---
 
