@@ -8,11 +8,11 @@ A static behavioural assessment web page built with **Vite**, **React**, **TypeS
 
 ### Desktop UI Preview
 
-![Screenshot](./public/background-assessment.jpg)
+![Screenshot](./public/behavioural-assessment.jpg)
 
 ### Video Demo
 
-[Watch the Demo Video](./public/Leni-Background-Assessment-Demo.mp4)
+[Watch the Demo Video](./public/Leni-Behavioural-Assessment-Demo.mp4)
 
 > _The video demonstrates the toggling of visibility and selection behaviour._
 
